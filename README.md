@@ -8,10 +8,17 @@ You can contribute to this files via githubs pull requests.
 
 In TemplaVoilà Plus is implemented to use versionized language files, for this feature the major version number of your TemplaVoilà Plus installation is used.
 
-Directory structure:
+Directory structure
+-------------------
+
 - First level contains the major version number
 - Second level contains the language ISO code as TYPO3 core uses it
 - The language files will be directly under this second level
 
 For the language zip files on my server the language files get moved to their correct place (templavoilaplus/Resources/Private/Language) before packed into the zip.
 Result Example: http://ter.templavoila.plus/templavoilaplus-v7/t/e/templavoilaplus-l10n/templavoilaplus-l10n-de.zip
+
+Where to find the old ones from TemplaVoila?
+--------------------------------------------
+
+The old ones were created and managed with TYPO3s poodle server. On https://translation.typo3.org/projects/TYPO3.ext.templavoila/ you can find all existing translations. But caution, they may be verry outdated, files in TV+ are moved, renamed and partly merged together.
