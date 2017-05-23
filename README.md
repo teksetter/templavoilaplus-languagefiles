@@ -14,3 +14,4 @@ Directory structure:
 - The language files will be directly under this second level
 
 For the language zip files on my server the language files get moved to their correct place (templavoilaplus/Resources/Private/Language) before packed into the zip.
+Result Example: http://ter.templavoila.plus/templavoilaplus-v7/t/e/templavoilaplus-l10n/templavoilaplus-l10n-de.zip
