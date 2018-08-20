@@ -228,6 +228,14 @@
                 <source>Create new element</source>
                 <target state="translated">Neues Element anlegen</target>
             </trans-unit>
+            <trans-unit id="hiderecord" xml:space="preserve">
+                <source>Hide element</source>
+                <target state="translated">Element verbergen</target>
+            </trans-unit>
+            <trans-unit id="unhiderecord" xml:space="preserve">
+                <source>Unhide element</source>
+                <target state="translated">Element sichtbar machen</target>
+            </trans-unit>
             <trans-unit id="editrecord" xml:space="preserve" approved="yes">
                 <source>Edit element</source>
                 <target state="translated">Element bearbeiten</target>
